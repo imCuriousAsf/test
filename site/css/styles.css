@@ -1,0 +1,11 @@
+#header-nav {
+	background-color: #800000;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img {
+	background: url(https://i0.wp.com/service.apiaudio.com/wp-content/uploads/2017/10/api-logo-150px.png?ssl=1) no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 10px 15px 0
+}
