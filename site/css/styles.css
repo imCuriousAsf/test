@@ -8,13 +8,20 @@
 	background:url('../stark.jpg') no-repeat;
 	width: 150px;
 	height: 150px;
-	margin: 10px 50px 10px -10px;
+	margin:;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
 
+
 }
+class="d-none d-md-block d-lg-block d-xl-block"
+
+
+
+
+/* everything under here is just for text, over it is navbar*/
 
 .mad a:link, a:visited {
 		
