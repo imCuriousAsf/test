@@ -17,7 +17,7 @@
 
 }
 
-.item , a:hover {
+.item , .item:hover {
 	color: white;
 	text-decoration: none;
 	position: relative;
